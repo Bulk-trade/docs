@@ -19,10 +19,7 @@ DeFi has always been the pinnacle use-case of crypto, to bring finance fully on-
 
 So what's lacking in DeFi? We believe it's the lack of permissionlessness, verifiability and most importantly high grade liqudity similar to instituonions or Liquidity avalible on CEXs. BULK bundles the infrastructure and liquidity stack required to power these defi apps i.e perputual, spot exhanges. Today most of dexes relay on liquidity commitments to make their DAPP work. First and foresmost users will always use a dapp that has better pricing on trading, better slippage and avaible liqudity for their choice of order. Bulk offers 2 key innovations to make markets liquid. These protocols are the BULK Liquidity Network, and the BULK Book.\
 \
-We belive that as we had a shift from CEXs to DEXs, now almost 60% of volume is being routed through DEXs (atleast on solana) There is a necseassry market revolution to shift to better liquidity primitives that are desentralised and as powerful. People talk about Market makers but lets breakdown what market making is:\
-
-
-~~The Spicenet Liquidity Network provides a unified and composable liquidity layer, one that is free of fragmentation, and is fueled by Flashbooks: the flagship Intent-AMM orderbooks sourcing liquidity from Spicenet's Network-Owned Liquidity initiative and external liquidity sources via intents. By enshrining liquidity at the network level, Spicenet ensures applications can inherit this liquidity for their use-case, without ever fragmenting liquidity. In fact, as more applications join Spicenet, liquidity becomes more productive, driving better yield for LPs(solvers and Network-Owned Liquidity vaults).~~
+We belive that as we had a shift from CEXs to DEXs, now almost 60% of volume is being routed through DEXs (atleast on solana) There is a necseassry market revolution to shift to better liquidity primitives that are desentralised and as powerful. People talk about Market makers but lets breakdown what market making is;
 
 ## Wtf is Market Making?
 
