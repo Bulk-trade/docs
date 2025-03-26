@@ -11,9 +11,8 @@
 ## Core Technical Architecture
 
 * [The Bulk Liquidity Network](core-technical-architecture/the-bulk-liquidity-network.md)
-* [Angmar](core-technical-architecture/angmar.md)
+* [Angmar (vault program)](core-technical-architecture/angmar-vault-program.md)
 * [Bulk Book](core-technical-architecture/bulk-book.md)
-* [Bulk-indexer](core-technical-architecture/bulk-indexer.md)
 
 ## TRADING INFRASTRUCTURE
 

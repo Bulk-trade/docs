@@ -15,33 +15,80 @@ layout:
 
 # Need for Bulk Trade
 
-DeFi has always been the pinnacle use-case of crypto, to bring finance fully on-chain. Make finance more scalable, transparent, verifiable. However, most of DeFi has arguably failed on this promise. DeFi today is psudo centralistion of liquidity - think what happens when liquidity provided by market makers goes away.&#x20;
+DeFi has always been envisioned as the pinnacle use case of crypto—bringing finance fully on-chain to make it **scalable, transparent, and verifiable**. However, much of DeFi today has failed to deliver on this promise.
 
-So what's lacking in DeFi? We believe it's the lack of permissionlessness, verifiability and most importantly high grade liqudity similar to instituonions or Liquidity avalible on CEXs. BULK bundles the infrastructure and liquidity stack required to power these defi apps i.e perputual, spot exhanges. Today most of dexes relay on liquidity commitments to make their DAPP work. First and foresmost users will always use a dapp that has better pricing on trading, better slippage and avaible liqudity for their choice of order. Bulk offers 2 key innovations to make markets liquid. These protocols are the BULK Liquidity Network, and the BULK Book.\
-\
-We belive that as we had a shift from CEXs to DEXs, now almost 60% of volume is being routed through DEXs (atleast on solana) There is a necseassry market revolution to shift to better liquidity primitives that are desentralised and as powerful. People talk about Market makers but lets breakdown what market making is;
+One of the biggest flaws in DeFi is the **pseudo-centralization of liquidity**. Consider what happens when liquidity provided by market makers disappears—DEXs struggle, slippage worsens, and markets become inefficient.
 
-## Wtf is Market Making?
+#### **The Missing Piece in DeFi**
 
-Cexs are built on something called a Orderbook but they dont have a liquidity reserve like AMMs based DEXs. So Cexs relay on market participants to bring in the liquidity (orders) for markets. Some highly innovative market participants sole job is to provide liquidity by filling the orders. how do they make money? by placing strategic orders they make money on spreads. \
-key notes that deffer from most amms:
+We believe the core issues in DeFi today stem from a lack of:
 
-* Liqudity is actively managed here
-* No x=k\*y pricing model&#x20;
-* Assets are priced based on spread and market
-* higher potential for rewards
-* CEXs stay liquid handling millions of trades&#x20;
+* **Permissionless market access**
+* **Verifiability of liquidity sources**
+* **Institutional-grade liquidity**, similar to what’s available on centralized exchanges (CEXs)
 
-Why do we need MMs on solana?
+BULK provides the **infrastructure and liquidity stack** needed to power the next generation of financial applications—perpetual and spot exchanges—without relying on traditional liquidity commitments.
 
-Defi on solana is seeing an uptrend of onchain orderbooks from drift to phoneix and BULK is taking a bet as solana grows as a powerhouse increase block sizes and reducing latences we are anticipting more protocols powered by their in house orderbooks.&#x20;
+#### **Why Bulk Trade?**
 
-So how do we MM on soalna without the need of high frequency infrastrucutre or market knowledge&#x20;
+At its core, a DEX is only as strong as its **liquidity, execution speed, and price efficiency**. Users will always choose a platform that provides:
 
+* **Better pricing for trades**
+* **Lower slippage**
+* **Deep, available liquidity for any order size**
 
+To enable these, BULK introduces two key innovations:
 
+1. **BULK Liquidity Network** – A decentralized liquidity layer optimizing capital efficiency.
+2. **BULK Book** – A hyper-efficient order book that rivals CEX-level execution.
 
+***
 
-The Open Exchange Protocol is a module boilerplate allowing applications to customize and choose from a variety of collateral assets, markets and instruments. Applications can therefore be highly opinionated and heterogenous, being selective about the collateral they want to support, markets they want to feature, and type of instruments they desire(spot, futures, etc). The Open Exchange Protocol also features a fully integrated money market, and a state-of-art risk engine, designed to price risk effectively. By abstracting the infrastructure and liquidity workloads from apps, Spicenet promotes permissionless finance and unlocks innovation at the application layer.
+### **The Evolution of Market Making**
 
-The end goal of Spicenet is to cultivate a flourishing ecosystem of trading applications, utilizing a shared liquidity layer, and benefitting off of open and customizable exchange/risk infrastructure. DeFi integrations are also directly built into the chain, in the form of expanded collateral, native USDC issuance, and so on, allowing apps to fully focus on their product, GTM and user acquisition.
+Just as DeFi has shifted from **CEXs to DEXs**—with nearly 60% of Solana's volume now routed through on-chain order books—we are now witnessing the next evolution: a move towards **decentralized, high-performance liquidity primitives**.
+
+#### **WTF is Market Making?**
+
+CEXs operate on **order book models** but do not have built-in liquidity reserves like AMM-based DEXs. Instead, they **rely on market participants (market makers) to provide liquidity** by continuously placing buy and sell orders.
+
+**How do Market Makers profit?**
+
+* They **strategically place orders** to earn the spread between bid and ask prices.
+* They **actively manage liquidity**, unlike AMMs that rely on fixed pricing formulas.
+* They ensure **efficient pricing and deep liquidity** to keep markets liquid.
+
+**Key Differences from AMMs:**
+
+✅ **Actively managed liquidity** (not passive like AMMs)\
+✅ **No x\*y=k pricing model** (prices are spread-driven)\
+✅ **Higher potential rewards for liquidity providers**\
+✅ **Millions of trades executed efficiently, maintaining deep liquidity**
+
+***
+
+### **Why Solana Needs Market Makers**
+
+Solana is experiencing a **surge in on-chain order books**—from **Drift to Phoenix**—and BULK is betting on Solana’s continued rise as a high-performance blockchain with increased **block size and lower latency**.
+
+As Solana grows, we expect **more protocols powered by in-house order books**, including:
+
+* **Lending protocols**
+* **Spot exchanges**
+* **Real-world assets (RWAs)**
+
+This growth **demands a robust liquidity layer**, but the challenge is **allowing everyday users to become market makers**—a role traditionally reserved for sophisticated participants due to:
+
+* **Complexity in liquidity management**
+* **Custody risks**
+* **High capital requirements**
+
+#### **How BULK Solves This**
+
+BULK democratizes liquidity provision by:
+
+1. **Aggregating user liquidity in a non-custodial environment** to execute market-making strategies.
+2. **Providing deep liquidity to protocols**, ensuring smooth order execution for their users.
+3. **Generating revenue from spreads, rebates, and trading fees**, benefiting both users and protocols.
+
+BULK transforms **user liquidity into high-definition, network-owned liquidity**, making it a **core pillar for DeFi’s next evolution**.
